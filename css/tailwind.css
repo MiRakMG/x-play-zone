@@ -16,17 +16,19 @@
   --color-purple: #8661c1;
   --color-green: #27c840;
   --color-blue: #0088ff;
+  --color-gay : #40E2FF;
 
   /* Spacing */
   --spacing-90: 90px;
   --spacing-120: 120px;
   --spacing-200: 200px;
   --spacing-270: 270px;
-  --spacing-288: 288px;
+  --spacing-288: 219px;
   --spacing-360: 360px;
   --spacing-600: 600px;
   --spacing-728: 728px;
 
   /* Breakpoints */
   --breakpoint-xs: 450px;
+
 }
